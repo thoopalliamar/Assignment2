@@ -3,19 +3,27 @@ li a{
     background-color: blueviolet;
     color: bisque;
     text-decoration: none;
-    display: inline-block;
-    padding: 8px 50px;
+    display: block-inline;
+   
     
     
     
+}
+li{
+    display: inline;
 }
 nav{
     list-style-type: none;
     margin: 0;
     padding: 0;
-    background-color: blueviolet;
-    width: 5px;
+   
+   
 
+}
+footer{
+    list-style-type: none;
+    display: inline-block;
+    
 }
 header{
     text-align: center;
@@ -26,8 +34,6 @@ header{
 body{
     background-color: floralwhite;
 }
-footer{
-    list-style-type: none;
-    display: inline-block;
-    width: 800px;
+section{
+    
 }
